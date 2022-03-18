@@ -35,10 +35,7 @@ foreach ($data['users'] as $country){
   <div class="row">
     <div class="col">
     <div class="col-12" id="header-text">
-    <h1 style="padding-bottom: 20px; padding-top: 100px;">
-  
-   
-            </h1>
+    <h1      landen         </h1>
     </div>
 
       <center> <table class="table table-striped">
